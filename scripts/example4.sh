@@ -1,0 +1,4 @@
+PATH_TO_BUILD=""
+
+${PATH_TO_BUILD}/example4
+
